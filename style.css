@@ -1,0 +1,156 @@
+.navbar{
+  background-color: #07689f;
+  /*background-color: black;*/
+  font-size:20px;
+  padding-bottom:175px;
+}
+
+.navbar-item{
+  padding:0px 16px;
+}
+
+.nav-link{
+  font-size:1.3rem;
+}
+
+#top{
+  background-color:#07689f;
+  color:white;
+
+  margin-bottom:0px;
+  /*border:15px solid #07689f;
+  border-bottom-right-radius:0px;
+  border-bottom-left-radius:0px;*/
+  margin-bottom:0px;
+}
+
+
+
+.name{
+  color:#eeeeee;
+  font-size:6rem;
+  color:#ffff;
+  line-height:1.5;
+  font-family: 'Lobster Two', cursive;
+}
+
+.title{
+  font-size:3rem;
+  font-family:Gabriola;
+
+}
+
+.text{
+  font-size:3rem;
+}
+
+#middle{
+  background-color:#white;
+  color: black;
+}
+
+.titl
+{
+font-size:2rem;
+font-family:Gabriola;
+padding-top:20px;
+line-height:2.5rem;
+  }
+
+
+  .list-inline{
+    list-type-style:none;
+    text-align:center;
+  }
+
+  .badges{
+    display:inline-block;
+  }
+
+
+  .fab{
+    font-family: 'Font Awesome 5 Brands';
+    font-weight:200;
+  }
+
+  #skills{
+    background-color: #132743;
+  }
+
+  .skill-progress{
+    text-align:justify;
+    line-height:53px;
+    margin-left:63px;
+    font-weight:normal;
+  }
+
+  span{
+    font-size:20px;
+  }
+
+  .progress{
+    line-height:30px;
+    margin-left:53px;
+    margin-right:0px;
+  }
+
+
+  #bottom{
+    padding-top:10px;
+    margin-bottom:0px;
+    background-color:#373a40;
+  }
+
+  .list-group{
+    font-weight:bold;
+    list-style-type:disc;
+  }
+
+/*contact form*/
+
+input[type=text],input[type=email]{
+   width:400px;
+   height:50px;
+   border-style: solid;
+
+
+}
+
+.mess{
+
+  border-style: solid;
+
+}
+
+
+label{
+   font-weight:bold;
+}
+
+
+#edu{
+  background-color: #f7f5dd;
+  padding-bottom:100px;
+}
+
+#image{
+
+}
+
+.button{
+  border-radius:60px 65px;
+  font-size: 1.3rem;
+}
+
+.button
+  border-radius:60px 65px;
+  font-size:1.5rem;
+  background-color: white;
+
+}
+
+
+.sub{
+  border-radius:60px 65px;
+  font-size:1.4rem;
+}
